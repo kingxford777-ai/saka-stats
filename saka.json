@@ -1,0 +1,21 @@
+{
+  "player": "Bukayo Saka",
+  "lastUpdated": "2026-10-18",
+  "source": "Transfermarkt and EnglandStats",
+  "club": {
+    "team": "Arsenal",
+    "appearances": 366,
+    "goals": 103,
+    "assists": 96,
+    "trophies": 5,
+    "awards": 9
+  },
+  "international": {
+    "team": "England",
+    "appearances": 59,
+    "goals": 19,
+    "assists": 15,
+    "trophies": 0,
+    "awards": 3
+  }
+}
